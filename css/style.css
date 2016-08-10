@@ -20,7 +20,7 @@ li {
 
 #foto{
     width: 100px;
-    height: 120px;
+    height: 118px;
     float:left;    
 }
 
@@ -36,6 +36,23 @@ li {
     float: left;
     padding: 20px;
     
+}
+
+#taylor{
+	width:1800px;
+	height:400;
+	margin:0;
+	opacity:0.4;
+	background-attachment:fixed;
+}
+
+
+.fundo1{
+	background-color:pink
+}
+
+.fundo2{
+	background-color:#FFFACD
 }
 
 .borda{
